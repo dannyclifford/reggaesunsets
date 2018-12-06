@@ -1,6 +1,6 @@
 ---
 ID: 7
-post_title: Home
+post_title: About
 author: admin
 post_excerpt: ""
 layout: page
